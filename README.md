@@ -1,1 +1,1 @@
-###CSCO6461 Computer Architecture course labs.
+### CSCI_6461 Computer Architecture course labs.
